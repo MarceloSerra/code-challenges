@@ -7,3 +7,5 @@
 "Crie arquivos de dados para testes do inventory."
 
 "Gere um run.md seguindo as melhores praticas para rodar o projeto."
+
+"Adicione no run.md exemplo para testar os endpoints gerados."
